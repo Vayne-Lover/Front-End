@@ -1,0 +1,44 @@
+/* add your CSS here */
+*
+{
+	box-sizing:content-box;
+}
+.italic
+{
+	font-style:italic;
+}
+.bold
+{
+	font-weight:bold;
+}
+.li
+{
+	list-style:none;
+}
+.box
+{
+	border:1px solid #ccc;
+	padding:10px;
+	box-shadow:5px 5px 10px #ccc;
+}
+.border
+{
+	border:1px solid #ccc;
+	padding:5px;
+	margin:5px;
+}
+.border1
+{
+	border:5px;
+	padding:5px;
+	margin:5px;
+}
+.border2
+{
+	border:5px;
+	margin:5px;
+}
+.width
+{
+	width:333px;
+}
